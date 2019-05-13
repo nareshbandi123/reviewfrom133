@@ -1,0 +1,25 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="BVT\BVTRepo.rxrep" />
+  </Array>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Grooming Modifications\TC_721959\VerifyGroomMetricsAndBaseLineMaxValue.cs|41|11|True|Break||" />
+    <Element value="Breakpoint|D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Grooming Modifications\TC_721959\VerifyGroomMetricsAndBaseLineMaxValue.cs|39|11|True|Break||" />
+    <Element value="Breakpoint|D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Grooming Modifications\TC_721950\VerifyThreeMetrics.cs|46|11|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="BVT\BVTRepo.rxrep" />
+    <Element value="BVT\TC_722026\Verifydatacollectionhappensonaninstanceconnectedwithuserwithoutsysadminpermissionandshowsdata.cs" />
+    <Element value="BVT\Steps.cs" />
+    <Element value="AutomationSQLdm.rxtst" />
+    <Element value="Grooming Modifications\TC_721950\VerifyThreeMetrics.cs" />
+    <Element value="DataBaseOperations\DataAccess.cs" />
+    <Element value="app.config" />
+    <Element value="BVT\BVTRepo.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>

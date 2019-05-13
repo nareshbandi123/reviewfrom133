@@ -1,0 +1,42 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{61F99090-53F7-41D0-9F8A-6FC8C2262E52}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>3d270705-687f-4ac7-82c3-ce0c71753564</string>
+      <string>4a6de247-0fc0-4c5f-91de-4426bcec9862</string>
+      <string>435ace51-31ae-4bef-bf4d-5d490d806462</string>
+      <string>01f97181-a0b1-4b2f-b667-36ead09b81c0</string>
+      <string>c0e8f708-922b-4cbc-918f-1c572421a0b8</string>
+      <string>0c693408-e214-4380-8159-107dc370551b</string>
+      <string>2d6b78ea-eb1c-44bb-b4da-f337949fb80e</string>
+      <string>b954a892-36f3-4e65-8c83-0800a9ebb180</string>
+      <string>71079302-9dbc-417b-bb90-d5bcef186919</string>
+      <string>ded140a1-ce76-4733-a693-b0ad421f5fac</string>
+      <string>2a735146-a70b-4f67-a2e5-60f14516640f</string>
+      <string>4b5801a0-2235-4898-b489-3a4f1265e30b</string>
+      <string>57517799-165b-4c0a-9248-0880689f0d55</string>
+      <string>24953d9d-2012-4d7a-9cbf-e9057dd31440</string>
+      <string>e9c89335-0a74-4423-bdd8-867cb208686a</string>
+      <string>28d505b6-6704-4f18-ae40-dfd9c24fdcc7</string>
+      <string>d51e70be-b510-4597-b7ba-3ddbae30f06d</string>
+      <string>71a738f9-6698-414a-bdb4-8794c49c46e2</string>
+      <string>d4d710d0-ab61-4424-be91-0096fa1ff762</string>
+      <string>7d780982-3b24-49a2-88de-006c57bd4d06</string>
+      <string>18dce66b-5b8e-4cce-89eb-a21d34a22768</string>
+      <string>0a6fc3b9-b05b-4388-8e12-4e087be00f66</string>
+      <string>602b8b30-97ba-464a-928e-eb39126a1183</string>
+      <string>d3af87b7-65cf-405a-b7de-0f66403fe3b8</string>
+      <string>63057c66-458d-4cc0-bf82-67565e7d4d33</string>
+      <string>1baf21b8-f274-4f5b-94e6-4ce926db2662</string>
+      <string>db34df95-e9cf-4f20-b04c-3bc2c9802204</string>
+      <string>2d4c5f95-fa96-44f0-b9c7-cb4657419c56</string>
+      <string>0847a94a-2939-4eb8-b1fa-8d70cb66e50d</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution AutomationSQLdm[AutomationSQLdm[Reports[]]]]&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\BVT&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\Reports" />
+  <StartupProject value="{61F99090-53F7-41D0-9F8A-6FC8C2262E52}" />
+</Properties>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroupdef
+			id="38c8156d-e80d-498a-b0ab-4eb9b3155dfa"
+			name="ModuleGroup">
+			</modulegroupdef>
+			<testmodule
+			id="8250e2e4-53f7-435c-a9cc-1741eb335f06"
+			name="VerifySessionsSummaryIsDisplaying"
+			ref="c27ab132-a053-4d84-bb05-9f22e554b4cb"
+			type="UserCode">
+			</testmodule>
+			<modulegroups
+			id="fa7c90f8-5907-4c77-a076-d7ecab192b14"
+			name="AutomationSQLdm">
+			</modulegroups>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="fa7c90f8-5907-4c77-a076-d7ecab192b14"
+			name="AutomationSQLdm">
+				<modulegroupdef
+				id="38c8156d-e80d-498a-b0ab-4eb9b3155dfa"
+				name="ModuleGroup">
+					<testmodule
+					id="8250e2e4-53f7-435c-a9cc-1741eb335f06"
+					name="VerifySessionsSummaryIsDisplaying">
+					</testmodule>
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>
